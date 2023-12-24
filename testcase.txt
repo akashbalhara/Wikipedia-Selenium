@@ -1,0 +1,7 @@
+Search Functionality
+Article Validation
+Language Selection
+Login and User Actions
+Wishlist
+Navigation and Links
+Page Editing
